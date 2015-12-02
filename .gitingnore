@@ -1,0 +1,6 @@
+.DS_Store
+anotherTest/.idea/
+anotherTest/.lib/
+anotherTest/persistence/target/
+*.iml
+*.iws
